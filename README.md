@@ -6,7 +6,7 @@ Problem Statement:  Write a Python program that:
 2. 	Checks whether the number is even or odd using an if-else statement.
 3. 	Displays the result accordingly.
 
-4. 	##task 2:
+ ##task 2:
 5. 	Problem Statement: Write a Python program that:
 1.   Uses a for loop to iterate over numbers from 1 to 50.
 2.   Calculates the sum of all integers in this range.
