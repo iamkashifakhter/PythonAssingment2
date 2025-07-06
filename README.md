@@ -7,7 +7,7 @@ Problem Statement:  Write a Python program that:
 3. 	Displays the result accordingly.
 
  ##task 2:
-5. 	Problem Statement: Write a Python program that:
+Problem Statement: Write a Python program that:
 1.   Uses a for loop to iterate over numbers from 1 to 50.
 2.   Calculates the sum of all integers in this range.
 3.   Displays the final sum.
